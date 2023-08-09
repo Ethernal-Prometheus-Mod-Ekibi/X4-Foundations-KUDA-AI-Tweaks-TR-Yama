@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- turkish -->
+<language>
+	<!-- "kuertee aait" = "kaait" = "11 1 1 9 20" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="1111920" voice="no">
+		<!-- konfigürasyon -->
+		<t id="1">Kuda: Kuertee Attack AI Tweaks</t>
+		<t id="2">Hata Ayıklama Kaydı</t>
+		<t id="3">Yüksek riskli düşmanlardan kaçının</t>
+		<t id="4">Oyuncu Fraksiyonu</t>
+		<t id="5">Diğer tüm fraksiyonlar</t>
+		<t id="6">Hasar alınmadan ilerleyin</t>
+		<t id="7">Hasar alındığında geri çekilin</t>
+		<t id="8">Gemi boyutu: XS (dronlar hariç), S &amp; M</t>
+		<t id="9">Gemi boyutu: L &amp; XL</t>
+		<t id="10">Silah menzilinin maksimumunda başlayın</t>
+		<t id="11">XS ve S gemileri bu taret sayısından fazla olduğunda saldırın</t>
+		<t id="12">Yüksek riskli gemilere karşı</t>
+		<t id="13">Yüksek riskli istasyonlara karşı</t>
+		<t id="14">M gemileri bu taret sayısından fazla olduğunda saldırın</t>
+		<t id="15">Pilotluk yeteneği ve moral davranışları etkiler</t>
+		<t id="16">Taşıyıcı gemiler Destroyerler gibi saldırır</t>
+		<t id="17">(etkileşim menüsü grubu)Kuda Davranışları</t>
+
+		<t id="101">'Tüm düşmanlara saldır' etkinleştir</t>
+		<t id="102">'Tüm düşmanlara saldır' devre dışı bırak</t>
+		<t id="103">'Yüksek riskli düşmanlardan kaçın' etkinleştir</t>
+		<t id="104">'Yüksek riskli düşmanlardan kaçın' devre dışı bırak</t>
+		<!-- emir isimleri -->
+		<t id="105">Yüksek riskli düşmandan kaçının</t>
+		<t id="106">Saldırı pozisyonuna git</t>
+		<t id="107">İleri çık</t>
+		<t id="108">Geri çekil</t>
+		<!-- emir özellikleri -->
+		<t id="109">Öne çıkma/çekilme davranışı</t>
+		<t id="110">Gemilere karşı hiç hasar verilmemesi durumunda öne çıkın</t>
+		<t id="111">İstasyonlara karşı hiç hasar verilmemesi durumunda öne çıkın</t>
+		<t id="112">Gemilere karşı geri çekil</t>
+		<t id="113">İstasyonlara karşı geri çekil</t>
+		<t id="114">Yüksek riskli gemilerden kaçının</t>
+		<t id="115">Yüksek riskli istasyonlardan kaçının</t>
+		<t id="116">'İleri doğru adım atma/geri çekilme' etkinleştir</t>
+		<t id="117">'İleri doğru adım atma/geri çekilme' devre dışı bırak</t>
+		<!-- emir açıklamaları -->
+		<t id="125">Yüksek riskli bir düşmanın etrafında uçuş yaparak çatışmadan kaçının</t>
+		<t id="126">Saldırı rotasını başlatın</t>
+		<t id="127">Menzile daha fazla silah katmak için biraz öne çıkın</t>
+		<t id="128">Kalkanları yenilemek için çekilin</t>
+		<!-- DA menü seçenekleri ve ipuçları -->
+		<t id="5000">Kuda: DeadAir Tweaks Ayarları</t>
+		<t id="5001">Yasadışı Faaliyet Ayarları</t>
+		<t id="5002">Polisi paravan olarak kullanarak gemileri bulma konusunda daha yetenekli hale getiren ve sektörlerindeki düşmanlara saldıran polis gruplarının itibar kaybını durduran ince ayarlar.</t>
+		<t id="5003">Saldırı Altındaki Gemi Ayarları</t>
+		<t id="5004">Gemiler, saldırı altında olduklarında ve bildirim devre dışı bırakılmadığında daha yüksek HP'de sizi bilgilendirecekler.</t>
+		<t id="5005">Boşluk Tutma Ayarları</t>
+		<t id="5006">Fraksiyonların, uzaylarını veya hedeflerini savunmak için gemileri toplama yeteneklerini geliştirir.</t>
+		<t id="5007">Uzay İstila Ayarları</t>
+		<t id="5008">Fraksiyonların sektörleri istila etmek için gemileri toplama yeteneklerini geliştirir.</t>
+		<t id="5009">Dron Seyahat Sürüşü Ayarları</t>
+		<t id="5010">Dronların, seyahat sürücülerini daha güvenilir bir şekilde kullanmalarını sağlar, eğer aktifleştirebiliyorlarsa.</t>
+		<t id="5011">Maksimum Gövde Onarım Ayarı</t>
+		<t id="5012">Onarım sınırını yetenekle ilgisi olmaksızın %100'e çıkarır. Onarım hızını artırmaz.</t>
+		<t id="5013">Pilot Yetenek Ayarları</t>
+		<t id="5014">Pilotların, füzelerden saldırı altında kaldıklarında yetenek cezası olmadan dumanlar kullanmasına olanak tanır.</t>
+		<t id="5015">Kaynak Sondası Ayarı</t>
+		<t id="5016">Madenciler, yakına olmaları gerekmeksizin sektördeki kaynak sondasından bonus madencilik hızı kazanır.</t>
+		<t id="5017">Oyuncu Gemilerinin İtişi Kullanmasına İzin Ver</t>
+		<t id="5018">Oyuncu sahibi gemilerin, kaçarken, kaçarken veya geçerken itişi kullanmalarını önler. Artık çoğu itiş kullanımını içerir.</t>
+		<t id="5019">Daha Akıllı Kaçış Ayarları</t>
+		<t id="5020">hareket.kaçış.destek komutunu yürüten gemilerin düşmanlara doğru daha az uçma olasılığı vardır; sivil gemiler, kaçmak yerine saldırmak yerine daha az seçicidir; kaçan S/M gemileri istasyonun ne kadar yakınında olduğu konusunda daha az seçicidir.</t>
+		<t id="5021">Seyahat Sürüşü Ayarları</t>
+		<t id="5022">Gemiler, galaksi boyunca yavaş gitme olasılığını daha düşük kullanır.</t>
+		<t id="5023">Devriye Gemisi Ayarları</t>
+		<t id="5024">Devriye gemileri, sektörde herhangi bir yerde tehlikede olan gemilere tepki verme olasılığını artırır. Keşif gemileri daha akıllıdır ve tehditleri gerçekten rapor eder.</t>
+		<t id="5025">Madencilik Gemisi Ayarları</t>
+		<t id="5026">Kargo satamayan madencilik gemileri, madencilik deneyimi kazanmaya devam etmek için kargoyu atar. Uzman / Uzman her zaman madencilik yapmadan önce talebi kontrol eder.</t>
+		<t id="5027">Vanilya Ticaret Ayarları</t>
+		<t id="5028">Vanilya ticaret komut dosyası boşta kalma süresini azaltır ve ek teklifleri kontrol etme olasılığını artırır.</t>
+		<t id="5029">Gemi Sipariş Mesafesi İyileştirmesi</t>
+		<t id="5030">AI, bir iş gemisi siparişi verirken hangi mesafeyi tercih ettiğine karar verirken mesafe ağırlığını artırır.</t>
+		<t id="5031">Hedef Belirleme Komutu Ayarları</t>
+		<t id="5032">Gemilerin, menzilde ve benzer sınıftaki hedefleri tercih ettiği geliştirilmiş hedef belirleme komutu. Uygun torpidoları kullanan gemiler daha büyük hedefleri tercih edecektir.</t>
+		<t id="5033">İstasyon Saldırı Görüş Alanı Ayarı</t>
+		<t id="5034">Bir istasyonu saldıran kapital gemileri, aktif hedeflerinde görüş hattı olmadığında istasyonun etrafında saat yönünde 15 derecelik açılarla döner. Temel olarak istasyon enkazı sorunlarını düzeltir.</t>
+	</page>
+</language>
